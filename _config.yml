@@ -4,83 +4,44 @@ baseurl: ""
 # Site settings
 title: Northwestern Public Speaking Club
 email: sunmch15@gmail.com
-description: "We are from Northwestern University, and we do public speaking."
+description: "The Public Speaking Club for Northwestern University."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+- name: Mike (HongYoul) Park
+  pic: 1-small
+  position: President
+  identity: PhD Student in Material Science
+  email: hongpark2023@u.northwestern.edu
+  
+- name: Ethan (Jinpu) Yang
+  pic: 2-small
+  position: Vice President of Education
+  identity: Phd Student at Kellog
+  email:
 
-- name: Trade Joe's
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+- name: Muchen Sun
+  pic: 3-small
+  position: Vice President of Public Relations & Webmaster
+  identity: Master Student in Mechanical Engineering
+  email: muchensun2021@u.northwestern.edu
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+- name: Suman Bhandari
+  pic: 4-small
+  position: Treasurer
+  identity: PhD Student in Mechanical Engineering
+  email: sumanbhandari2022@u.northwestern.edu
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+- name: Anastasiia Tsarenko
+  pic: 5-small
+  position: External Advisor
+  identity: Founder of Perform On Top
+  email:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
