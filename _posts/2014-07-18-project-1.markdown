@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2020-01-02
 img: agenda.jpg
-thumbnail: agenda.jpg
+thumbnail: agenda-thumbnail.png
 alt: image-alt
 download:
 ---

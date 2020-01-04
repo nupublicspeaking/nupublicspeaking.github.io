@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: 2020-01-02
 img: path.png
-thumbnail: path.png
+thumbnail: path-thumbnail.png
 alt: image-alt
 download:
 
