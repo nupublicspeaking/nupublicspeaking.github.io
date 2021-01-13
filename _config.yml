@@ -9,35 +9,35 @@ description: "The Public Speaking Club for Northwestern University."
 
 # Team names, titles and social links
 people:
+- name: Muchen Sun
+  pic: 3-small
+  position: President
+  identity: PhD Student in Mechanical Engineering
+  email: muchen@u.northwestern.edu
+
 - name: Mike (HongYoul) Park
   pic: 1-small
-  position: President
+  position: Vice President of Education
   identity: PhD Student in Material Science
   email: hongpark2023@u.northwestern.edu
   
-- name: Ethan (Jinpu) Yang
+- name: Metehan Çam
   pic: 2-small
-  position: Vice President of Education
-  identity: PhD Student in Finance
-  email:
-
-- name: Muchen Sun
-  pic: 3-small
-  position: Vice President of Public Relations & Webmaster
-  identity: MS Student in Mechanical Engineering
-  email: muchensun2021@u.northwestern.edu
-
-- name: Suman Bhandari
-  pic: 4-small
-  position: Treasurer
+  position: Vice President of Membership
   identity: PhD Student in Mechanical Engineering
-  email: sumanbhandari2022@u.northwestern.edu
+  email: metehancam2023@u.northwestern.edu
 
-- name: Anastasiia Tsarenko
+- name: Gabrielle Guillerm
+  pic: 4-small
+  position: Vice President of Public Relations
+  identity: PhD Student in History
+  email: gabrielleguillerm2019@u.northwestern.edu
+
+- name: Giovanni Sciacovelli
   pic: 5-small
-  position: External Advisor
-  identity: Founder of Perform On Top
-  email:
+  position: Vice President of Finance & Treasurer
+  identity: PhD Student in Economics
+  email: giovannisciacovelli2024@u.northwestern.edu 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 
